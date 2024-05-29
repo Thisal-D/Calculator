@@ -1,0 +1,8 @@
+.calculator-buttons-bg{
+    width: 100%;
+    margin-top: 10px;
+}
+
+.calculator-buttons-bg td{
+    width: 25%;
+}

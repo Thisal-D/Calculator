@@ -1,0 +1,24 @@
+.calculator-main-bg{
+    width: 500px;
+    height: 800px;
+    background-color: #151515;
+    border-radius: 20px;
+    margin: auto;
+    border: 2px solid;
+    border-color: #505050;
+}
+
+.calculator-histroy-button{
+    background-color: #151515;
+    border: 0;
+    font-size: 2em;
+    color: #bbbbbb;
+    border-radius: 20px;
+    margin-left: 455px;
+}
+
+.calculator-histroy-button:hover{
+    color: azure;
+    font-size: 2.1em;
+    margin-left: 455px;
+}
