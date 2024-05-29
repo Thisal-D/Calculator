@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+![Untitled-1](https://github.com/Thisal-D/Calculator/assets/93121062/3fbd958d-f7e4-4f86-82e9-7c15fbdf48b2)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
